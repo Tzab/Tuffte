@@ -1,13 +1,13 @@
 # Tuffte book questions
 ## Chapter 6
-1. Four considerations for  efficiency statistical graphics.
-    Complexity, Structure, Desity & Beauty
-2. Will audience looking at the new designs be confused?
-    No, some are self explanatory, others are more difficult but the audience should never be underestimated
-3. Type of diagram that combine the marginal frequency distribution and the bivariate distribution. 
-    The dot-dash-plot.
-4.The imperfect empirical representation of an underlying curve that transforms one variable into another. 
-    Bivariate scatter
+1. **Four considerations for  efficiency statistical graphics.**
+     - Complexity, Structure, Desity & Beauty
+2. **Will audience looking at the new designs be confused?**
+     - No, some are self explanatory, others are more difficult but the audience should never be underestimated
+3. **Type of diagram that combine the marginal frequency distribution and the bivariate distribution.** 
+     - The dot-dash-plot.
+4. **The imperfect empirical representation of an underlying curve that transforms one variable into another.** 
+     - Bivariate scatter
 ## Chapter 7
 1. What are the main 3 considerations for the viewing depth at graphics?
     *What is seen from a distance
